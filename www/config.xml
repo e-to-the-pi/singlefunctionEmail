@@ -4,7 +4,11 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.devwestlabrockton.maritz.mdx.publicios"
+<<<<<<< HEAD
         version   = "0.0.10">
+=======
+        version   = "0.0.8">
+>>>>>>> eb5740599121ab15c16ae46cf7c33c7b32a87a8a
 
     <name>singlefunctionEmail</name>
 
