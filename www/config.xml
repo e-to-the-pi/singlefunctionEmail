@@ -9,15 +9,15 @@
     <name>mdx-public-ios-tablet</name>
 
     <description>
-        2014 Acura MDX Training iPad App. email within app using phonegap plugin.
+      test email quick
     </description>
 
-    <author href="http://maritz.com" email="phillip.schmidt@maritz.com">
-        Maritz
+    <author href="http://nesimsisa.com" email="nesim.sisa@maritz.com">
+        esim ssa
     </author>
 
 
-   <content src="main.html" />               <!--  Set the start page in your config.xml, the <content> tag. -->
+   <content src="index.html" />               <!--  Set the start page in your config.xml, the <content> tag. -->
 
 
     <!--
