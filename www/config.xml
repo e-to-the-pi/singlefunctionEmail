@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.devwestlabrockton.maritz.mdx.publicios"
-        version   = "0.0.6">
+        version   = "0.1.0">
 
     <name>singlefunctionEmail</name>
 
@@ -58,7 +58,7 @@
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
         
     -->
-    <gap:plugin name="EmailComposer" value="EmailComposer"  version="~2"/>
+    <plugin name="EmailComposer" value="EmailComposer"  />
 
 
     <!-- Define app icon for each platform. The default icon must be named icon.png and must reside in the root of your application folder.-->
